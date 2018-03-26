@@ -59,10 +59,10 @@ You can contact the author at :
 /**************************************
 *  Includes
 **************************************/
-#include "lz4frame_static.h"
-#include "lz4.h"
-#include "lz4hc.h"
-#include "xxhash.h"
+#include "lib/lz4frame_static.h"
+#include "lib/lz4.h"
+#include "lib/lz4hc.h"
+#include "lib/xxhash.h"
 
 
 /**************************************

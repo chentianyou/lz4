@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lz4.h": "c",
+        "xxhash.h": "c",
+        "lz4hc.h": "c"
+    }
+}
