@@ -19,5 +19,6 @@ cc_library(
         "lib/xxhash.h",
         "lib/lz4.c",
     ],
+    includes = ["lib"],
     visibility = ["//visibility:public"],
 )
